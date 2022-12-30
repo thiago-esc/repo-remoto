@@ -1,0 +1,34 @@
+Ter um repositório remoto no github é ter o nosso código armazenado na nuvem!
+repo.new (browser) -> Te leva a tela de criar um novo repositório (conta logada)
+Pasta/Diretório == repositório
+
+Trabalho em equipe
+O github é uma ferramenta para unificar as mudanças que toda equipe faz em um projeto 
+------------------------------------------------------------------------------
+Criar um novo repositório;
+Dar nome a este repo;
+Preencher descrição? É um texto que aparece abaixo do nome do repositório. Não confundir com README.md
+Public x Private: É possível ter repos privados em contas gratuitas. Porém, é limitado a três, os que podem participar do projeto
+Existe a opção de criar um README.md já nessa tela, ou na próxima, via github. Ou você pode criá-lo via código
+Create repository
+
+    -> Uma nova tela, irá oferecer um link (HTTPS/SSH). Este link será o endereço de conexão entre repositório remoto/local.
+    Logo abaixo, a opção de criar um README.md (novo arquivo ou já existente). 
+    -> As alterações feitas via github também deve ser commitadas via github.
+
+README.md
+
+No github, isto é um aquivo com extençao .md(Markdown). Nele deve conter informações sobre como seu projeto pode ser utilizado por outras pessoas(Intalação, dependências, uso, etc)
+
+Markdown
+
+É uma linguagem de marcação de texto, como HTML. Porém, mais amigável.
+
+Além do README.md, também é possível "upar" ou criar e editar os arquivos da própria aplicação para o seu repositório remoto, diretamente pelo github. O github oferece um editor de texto(bem basicão) pra vc escrever o código no seu arquivo.
+
+Existe outra opção para se trabalhar diretamente com nosso repositório remoto. Uma opção intermediária entre o editor basicão que o github oferece e o jeito raíz (repo local)
+
+GITHUB DESKTOP
+
+No github: Pressione e segure por 3 segundos a tecla "." (ponto) e veja a mágica acontecer...
+Um editor do VSCode online pra você trabalhar seus arquivos e códigos. Incrível!
